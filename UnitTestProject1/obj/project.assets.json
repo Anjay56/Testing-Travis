@@ -5741,11 +5741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "D:\\Try Travis test\\Testing-Travis\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectPath": "D:\\Try Travis test\\Testing-Travis\\UnitTestProject1\\UnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\UnitTestProject1\\obj\\",
+      "outputPath": "D:\\Try Travis test\\Testing-Travis\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5762,8 +5762,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\Testing Travis CI.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\Testing Travis CI.csproj"
+            "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\Testing Travis CI.csproj": {
+              "projectPath": "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\Testing Travis CI.csproj"
             }
           }
         }
@@ -5808,9 +5808,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"

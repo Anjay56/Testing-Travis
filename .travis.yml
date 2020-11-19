@@ -1,2 +1,7 @@
 language: csharp
+mono: none
 solution: Testing Travis CI.sln
+dotnet: 5.0.100
+script:
+  - dotnet restore
+  - dotnet test

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\Testing Travis CI.csproj": {}
+    "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\Testing Travis CI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\Testing Travis CI.csproj": {
+    "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\Testing Travis CI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\Testing Travis CI.csproj",
+        "projectUniqueName": "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\Testing Travis CI.csproj",
         "projectName": "Testing Travis CI",
-        "projectPath": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\Testing Travis CI.csproj",
+        "projectPath": "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\Testing Travis CI.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Documents\\Travis Testing\\Testing Travis CI\\Testing Travis CI\\obj\\",
+        "outputPath": "D:\\Try Travis test\\Testing-Travis\\Testing Travis CI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ C:\Users\ASUS\Documents\Travis Testing\Testing Travis CI\Testing Travis CI\obj\D
 C:\Users\ASUS\Documents\Travis Testing\Testing Travis CI\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.dll
 C:\Users\ASUS\Documents\Travis Testing\Testing Travis CI\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.pdb
 C:\Users\ASUS\Documents\Travis Testing\Testing Travis CI\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.genruntimeconfig.cache
+D:\Try Travis test\Testing-Travis\Testing Travis CI\bin\Debug\netcoreapp3.1\Testing Travis CI.exe
+D:\Try Travis test\Testing-Travis\Testing Travis CI\bin\Debug\netcoreapp3.1\Testing Travis CI.deps.json
+D:\Try Travis test\Testing-Travis\Testing Travis CI\bin\Debug\netcoreapp3.1\Testing Travis CI.runtimeconfig.json
+D:\Try Travis test\Testing-Travis\Testing Travis CI\bin\Debug\netcoreapp3.1\Testing Travis CI.runtimeconfig.dev.json
+D:\Try Travis test\Testing-Travis\Testing Travis CI\bin\Debug\netcoreapp3.1\Testing Travis CI.dll
+D:\Try Travis test\Testing-Travis\Testing Travis CI\bin\Debug\netcoreapp3.1\Testing Travis CI.pdb
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.csprojAssemblyReference.cache
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.AssemblyInfoInputs.cache
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.AssemblyInfo.cs
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.csproj.CoreCompileInputs.cache
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.dll
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.pdb
+D:\Try Travis test\Testing-Travis\Testing Travis CI\obj\Debug\netcoreapp3.1\Testing Travis CI.genruntimeconfig.cache
