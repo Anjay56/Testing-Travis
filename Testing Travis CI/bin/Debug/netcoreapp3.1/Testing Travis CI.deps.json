@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Testing Travis CI/1.0.0": {
+        "runtime": {
+          "Testing Travis CI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing Travis CI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
